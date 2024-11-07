@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554569538657",
+    "project_id": "loginapp-378c2",
+    "storage_bucket": "loginapp-378c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554569538657:android:c4268cc25a224b27dc1e20",
+        "android_client_info": {
+          "package_name": "com.ph.edu.usc19103447.loginactivityfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmxLU-RXUPI1XwrNi4MrZ5y1BQSVGhfO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
